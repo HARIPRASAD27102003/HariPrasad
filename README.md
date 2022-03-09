@@ -2,8 +2,7 @@
 
 Myself Hari Prasad Surneedi, I am in IT branch IIIT Lucknow.
 
-I am from Vijayawada, Andhra Pradesh.
-My Hobbies are playing cricket & volley ball, watching movies etc......
+I am currently working on c++, javascript.
 
 Contact:
 insta:https://www.instagram.com/_hari_surneedi/
